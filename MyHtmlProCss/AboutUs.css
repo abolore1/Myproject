@@ -1,0 +1,149 @@
+body{
+
+    background-image:url(../Images/mobile-605422.jpg);
+    background-size: cover;
+    text-align: center;
+    opacity: 100px;
+    
+}
+
+/* body:hover{
+
+    background-image: url(../Images/mobile-605422.jpg);
+} */
+#heading{
+    text-decoration:underline;
+    font-size: 28px; 
+    color:white;
+    font-style: italic;
+  
+}
+
+#paragraph{
+    font-size: 27px; 
+    margin-top:-10px;
+    text-align: justify;
+    color:white;
+    font-style: italic;
+}
+#paragraph:hover{
+    color:lightskyblue;
+} 
+
+
+
+#paragraph2{
+    font-size: 27px; 
+    margin-top:-10px;
+    text-align: justify;
+    color:white;
+    font-style: italic;
+}
+
+#paragraph2:hover{
+    color:lightskyblue;
+} 
+
+
+
+#p-aragraph3{
+    font-size: 27px; 
+    margin-top:-10px;
+    text-align: justify;
+    color:white;
+    font-style: italic;
+}
+
+#p-aragraph3:hover{
+    color:lightskyblue;
+} 
+
+
+
+#list{
+    font-size: 27px; 
+    margin-top:-10px;
+    text-align: justify;
+    color:white;
+    font-style: italic;
+}
+
+#list:hover{
+    color: lightskyblue;
+}
+
+#maindiv{
+    margin-top: 150px;
+   
+    }
+
+    #maindiv>article{
+        
+        width: 500px;
+        margin: auto;
+        
+    }
+
+    #heading:hover{
+        color: lightskyblue;
+    }
+    
+    #abouts{
+
+        font-size: 27px; 
+        margin-top:-10px;
+        text-align: justify;
+        color:white;
+        font-style: italic;
+
+    }
+    #abouts:hover{
+        color: lightblue;
+    }
+
+
+    #nextparag{
+
+        font-size: 27px; 
+        margin-top:-10px;
+        text-align: justify;
+        color:white;
+        font-style: italic;
+
+    }
+
+    #nextparag:hover{
+        color: lightblue;
+    }
+
+
+    #ullist{
+
+        font-size: 27px; 
+        margin-top:-10px;
+        text-align: justify;
+        color:white;
+        font-style: italic;
+
+    }
+
+    #ullist:hover{
+        color: lightblue;
+    }
+
+    #lastparag{
+
+        font-size: 27px; 
+        margin-top:-10px;
+        text-align: justify;
+        color:white;
+        font-style: italic;
+
+    }
+    #lastparag:hover{
+        color: lightblue;
+    }
+    
+    
+    
+

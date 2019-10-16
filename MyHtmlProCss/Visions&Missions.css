@@ -1,0 +1,46 @@
+body{
+ 
+    text-align: center;
+    margin-top: 80px;
+    background-image: url(../Images/startup-593327.jpg);
+    background-size: cover;
+    
+}
+
+body:hover{
+
+    /* background-image:url(../Images/paper-3213924.jpg); */
+}
+
+#ovm{
+    text-decoration:underline;
+    font-size: 28px; 
+    color:white;
+    font-style: italic;
+  
+}
+#ovmp{
+font-size: 27px; 
+margin-top:-10px;
+text-align: justify;
+color:white;
+font-style: italic;
+}
+
+#maindiv{
+margin-top: 150px;
+
+}
+#maindiv>article{
+    width: 500px;
+    margin: auto;
+}
+
+#ovm:hover{
+    color: lightskyblue;
+}
+
+
+#ovmp:hover{
+    color:lightskyblue;
+}

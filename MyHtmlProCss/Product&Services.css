@@ -1,0 +1,145 @@
+
+     body{
+        background-image:url(../Images/niceone.jpg);
+        /* background-size: cover; */
+    
+     }
+
+     #heading{
+       padding-top: 0px;
+        color:rgb(7, 7, 145);
+     }
+
+     table, th, td {
+        border: 1px solid rgb(124, 202, 228);
+        border-collapse: collapse;
+        text-align: center;
+        background-color:rgb(11, 118, 153);
+        color:white;
+        margin-top: 100px;
+        position: unset;
+        margin-left: 150px;
+        font-style: italic;
+        font-size: 20px;
+        
+        
+    }
+
+
+     td:hover{
+
+        color: blue;
+       
+    }
+
+   th:hover{
+       color:blue;
+   }
+
+    th, td {
+        padding: 5px;
+    
+    }
+    
+    h1{
+        color: white;
+        text-align: center;
+        text-decoration: underline;
+        font-size: 28px; 
+        font-style: italic;
+        padding-top: 50px;
+  
+    }
+
+    h1:hover{
+
+        color:lightblue;
+    }
+    .galleria-container{
+        background:rgb(0, 0, 120);
+        border-radius: 15px;
+    }
+
+
+    .galleria-container:hover{
+        background-color:rgb(11, 118, 153);
+        border-radius: 15px;
+    }
+
+
+
+    #applydiv{
+
+        background-color:skyblue;
+        height: 730px;
+        width: 77%;
+        margin-left: 150px;
+    }
+#applydiv:hover{
+    background-color:rgb(11, 118, 153);
+}
+
+#formdiv{
+    border-radius: 15px;
+    height: 640px;
+    width: 450px;
+    border: 1px solid skyblue;
+    background-color: rgb(0, 0, 120);
+    margin-left: 280px;
+    color: white;
+    padding-top: 30px;
+    
+    
+}
+
+#formdiv:hover{
+    background-color:rgb(11, 118, 153);
+
+}
+
+#field{
+    margin-left:50px;
+    padding: 10px;
+    font-size: 20px
+}
+#input{
+    /* border-radius: 15px; */
+    width:200px; 
+    height: 30px;
+    padding-left: 10px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(203, 221, 224);
+    
+}
+
+textarea{
+    /* border-radius: 15px; */
+    width: 200px;
+    padding-left: 10px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(203, 221, 224);
+    
+    /* font-size: 20px */
+   
+}
+
+/* #textcom{
+
+    height: 100px;
+
+} */
+
+button{
+
+    height: 30px;
+    margin: 10px;
+    width: 60px;
+    padding: auto;
+}
+
+::placeholder{
+
+    font-size: 15px;
+}

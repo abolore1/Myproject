@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+
+/* background-color: lightblue; */
+background-image:url(../Images/0.jpg)
+}
+
+#close{
+ padding-top:10px;
+
+}
+
+#allen{
+color:white;
+margin-left: 50px;
+margin-top: 40px;
+font-family: 'Segoe script', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 50px;
+
+}
+
+#allen:hover{
+
+    color: lightskyblue;
+}
+
+
+
+#the{
+    color: white;
+    margin-left: 50px;
+    font-family:Segoe script;
+}
+#navbar{
+    background-color:lightblue;
+    height: 32px;
+    width: 100.2%;
+    font-family: 'Segoe script';
+}
+
+#navbar a{
+    text-decoration: none;
+    color:rgb(0,0,255);
+    height: 50%;
+    margin: 15px;
+    
+}
+
+#nextsection{
+background-color: white;
+height: 800px;
+width: 100%;
+/* background-image:url(../Images/paper-3213924.jpg ) */
+
+}
+
+#navbar a:hover{
+color: white;    
+} 
+#navbar:hover{
+    background-color:#000000b9;
+
+}
+

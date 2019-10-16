@@ -1,0 +1,11 @@
+table, th, td {
+    border: 2px solid rgb(124, 202, 228);
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(10, 10, 10);
+    color:white;
+}
+th, td {
+    padding: 5px;
+}
+
